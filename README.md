@@ -1,4 +1,4 @@
 # demo
-This is my first Repository 
+This is my first Repository
 <br>
-Auther: Siddiqui Taha 
+Auther: Siddiqui (form AIKTC)
